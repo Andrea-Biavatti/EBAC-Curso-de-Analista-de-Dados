@@ -1,4 +1,4 @@
-# ![Cópia de Sem nome (2)](https://user-images.githubusercontent.com/72770754/187765537-c404a4e1-9cc2-453e-a551-e8e5b388a157.png)  EBAC - Curso de Analista de Dados
+# ![Cópia de Sem nome (4)](https://user-images.githubusercontent.com/72770754/187780871-a2d87d42-81a5-4a0c-a73d-22a2afea3c12.png)  EBAC - Curso de Analista de Dados
  
 Atividades realizadas durante o Curso de Analista de Dados na EBAC.  
 
@@ -83,3 +83,4 @@ Atividades realizadas durante o Curso de Analista de Dados na EBAC.
 - [ ] 4º Projeto: Pipeline de dados do Telegram I
 - [ ] 4° Projeto: Pipeline de dados nativo na nuvem II
 - [ ] Projeto Final
+
