@@ -1,10 +1,9 @@
 # ![Cópia de Sem nome (2)](https://user-images.githubusercontent.com/72770754/187765537-c404a4e1-9cc2-453e-a551-e8e5b388a157.png)  EBAC - Curso de Analista de Dados
  
+Atividades realizadas durante o Curso de Analista de Dados na EBAC.  
 
-Exercícios resolvidos durante o Curso de Analista de Dados na EBAC.
 
-
- <details><summary>CONTEÚDO (45 módulos)</summary>
+ <details ><summary> 👩‍🎓 CONTEÚDO (45 módulos)</summary>
 
 <p>
 
@@ -21,7 +20,7 @@ Exercícios resolvidos durante o Curso de Analista de Dados na EBAC.
 </details>
   
 
- <details><summary>PROJETOS</summary>
+ <details><summary> 👩‍🎓 PROJETOS</summary>
 
 <p>
 
@@ -35,7 +34,7 @@ Exercícios resolvidos durante o Curso de Analista de Dados na EBAC.
 </details>
 
 
- <details><summary>STATUS DOS MÓDULOS</summary>
+ <details><summary> ☑️ STATUS DOS MÓDULOS</summary>
 
 <p>
 
